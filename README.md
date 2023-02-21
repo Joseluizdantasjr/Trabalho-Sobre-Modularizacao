@@ -1,7 +1,7 @@
 # Trabalho Sobre Modularizacao
 ## Matéria: Programação para computadores
 ### Aluno: José Luiz Dantas Júnior
-O trabalho consiste em responder questões que envolvam arrays, em códigos na linguagem C.
+O trabalho consiste em responder questões que envolvam modularizacao, em códigos na linguagem C.
 ## Questões:
 1) Criar uma função e protótipo que receba como argumento um 𝑁ú𝑚𝑒𝑟𝑜 inteiro (𝑁ú𝑚𝑒𝑟𝑜 > 0) e retorne à multiplicação dos Pares ou dos Ímpares entre [1, 𝑁ú𝑚𝑒𝑟𝑜] de acordo com a Opção do usuário. Na main, use a função 50 vezes para valores de 𝑁ú𝑚𝑒𝑟𝑜 e Opção escolhidos pelo usuário.
 2) Criar uma função e seu protótipo que receba o valor de um ano e retorne da função: Zero (0): Ano NÃO é Bissexto ou Um (1): Ano é Bissexto. Na main, use a função 100 vezes para valores de anos lidos do usuário (um de cada vez).
